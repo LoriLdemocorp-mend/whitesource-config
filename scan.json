@@ -1,0 +1,9 @@
+{
+  "repositories": [
+    {
+      "fullName": "LoriLdemocorp-mend/WebGoat",
+      "branch": "main",
+      "scanType": "sast"
+    }
+  ]
+}
